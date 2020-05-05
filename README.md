@@ -14,14 +14,14 @@
 ## Table of Contents
 - [WhitePaper](#White-Paper)
 - [Usage](#usage)
-- [Wiki](#wiki)
+- [Wiki](#Wiki)
 - [Contribute](#contribute)
-- [License](#license)
+- [License](#License)
 
 ## White-Paper
 [Hydrogen Innovations Whitepaper](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/tree/master/documents)
 
-## wiki
+## Wiki
 [Project Wiki](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/tree/master/documents)
 
  
