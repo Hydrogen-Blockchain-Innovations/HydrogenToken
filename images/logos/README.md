@@ -23,6 +23,6 @@
 [Hydrogen Innovations Whitepaper](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/tree/master/documents)
 
 ## Wiki
-[Project Wiki](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/tree/master/documents)
+[Project Wiki](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/tree/master/docs)
 
  
