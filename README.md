@@ -9,7 +9,7 @@
 - Main Features: Run on the ethereum blockchain
 - Market Cap 21,000,000,000
 - Total supply of HHO 700,000,000  
-- Note:
+- Note: The HHO Tokens is backed by the RIN Credits (Renewable Indentificaton Number)
 
 ## Table of Contents
 - [WhitePaper](#White-Paper)
