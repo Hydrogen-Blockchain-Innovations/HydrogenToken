@@ -11,6 +11,12 @@
 - Total supply of HHO 700,000,000  
 - Note: The HHO Tokens is backed by the RIN Credits (Renewable Indentificaton Number)
 
+# Price of HHO
+ 
+ 1 HHO = RIN(D3+D4+D5+D6)/4 = $0.6925
+
+![Latest RIN Prices](/images/github-logo.png)
+
 ## Table of Contents
 - [WhitePaper](#White-Paper)
 - [Usage](#usage)
