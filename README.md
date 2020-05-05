@@ -15,7 +15,7 @@
  
  1 HHO = RIN(D3+D4+D5+D6)/4 = $0.6925
 
-![Latest RIN Prices](/images/github-logo.png)
+![Latest RIN Prices](/images/RIN-Trades-and-Price-Information.png)
 
 ## Table of Contents
 - [WhitePaper](#White-Paper)
