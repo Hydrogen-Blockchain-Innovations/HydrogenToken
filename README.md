@@ -27,6 +27,16 @@ Hydrogen is also increasingly used for fuel cell powered vehicles, material hand
 
 Research and development programs worldwide have increasingly focused on developing and improving technologies for hydrogen production and separation. When hydrogen is produced continuously, either by a thermochemical means or by electrolysis, the product stream often contains many byproducts, such as steam, hydrocarbons, carbonaceous species, or an inert sweep gas. Therefore, an energy-efficient hydrogen separation technique is crucial to large scale hydrogen production.
 
+## Hydrogen Production using Membrane Separation
+
+Hydrogen can be produced and purified by pressure swing adsorption (PSA), cryogenic distillation or membrane separation. Although PSA and cryogenic distillation are currently used for commercial hydrogen production, they are energy intensive techniques. On the other hand, Membrane separation processes that have been developed by H2I and introduced in this information memorandum require far less energy and are capable of operating continuously. In short, hydrogen permeable membranes are considered to be the most promising and innovative technology for inexpensive high-purity hydrogen production. By contrast, PSA and cryogenic distillation also require huge amounts of expensive auxiliary equipment, making them economically viable for large economies-of-scale applications only. Membrane separation is much simpler and can also be scaled down to localized and targeted (de-centralized, also known as “distributed energy”) production; for example, for businesses such as a gas-stations or as back-up power for buildings, industrial parks or housing estates, including stand-alone micro-grid installations. With de- centralized production, the freight costs associated with shipping hydrogen to the end-user would be eliminated.
+
+Hydrogen permeable membranes can be generally classified into four categories based on materials: (i) polymer (organic), (ii) metallic, (iii) carbon and (iv) ceramic. The latter three inorganic membranes can further be divided into porous and dense membranes. H2I has concentrated on metallic membranes, as they demonstrate greater advantages over the other three types of membranes. These advantages include:
+- Chemical stability in the presence of most all chemicals.
+- Medium temperature operation (~400 C).
+- Production of extremely high purity hydrogen.
+- The highest permeation rates (hydrogen production rates) versus the other types of
+membranes.
 
 ## White-Paper
 [Hydrogen Innovations Whitepaper](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/tree/master/documents)
