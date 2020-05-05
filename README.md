@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-You can use the [editor on GitHub](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Hydrogen Generation Project
+[![Gitter](https://badges.gitter.im/intergalacticcredits/community.svg)](https://gitter.im/intergalacticcredits/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+> What is an Hydrogen  Innovations or (HHO)?  
+- Mainnet : [0x18189bB2504a0FbE2D2E76C2Bff200c76543f121](https://etherscan.io/address/0x76ace4e080c49f04a6c12756c036d3627f6b1e69)
+- Main Features: Run on the ethereum blockchain
+- Market Cap 21,000,000,000
+- Total supply of HHO 700,000,000  
+- Note:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Table of Contents
+- [WhitePaper](#White-Paper)
+- [Usage](#usage)
+- [Wiki](#wiki)
+- [Contribute](#contribute)
+- [License](#license)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## White-Paper
+[InterGalactic Credits whitepaper](https://github.com/intergalacticredits/IGCredits/tree/master/whitepaper)
