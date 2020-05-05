@@ -19,4 +19,9 @@
 - [License](#license)
 
 ## White-Paper
-[InterGalactic Credits whitepaper](https://github.com/intergalacticredits/IGCredits/tree/master/whitepaper)
+[Hydrogen Innovations Whitepaper](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/tree/master/documents)
+
+## wiki
+[Project Wiki](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/tree/master/documents)
+
+ 
