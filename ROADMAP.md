@@ -1,4 +1,4 @@
-# H2I Roadmap
+# Hydrogen Blockchain Innovations Roadmap
 
 This roadmap represents some of priorities for us over the next couple months. Issues or pull requests will be opened to discuss each of these items as they progress.
 
