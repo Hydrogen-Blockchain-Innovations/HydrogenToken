@@ -60,6 +60,6 @@ We also intend to develop and market our capability to store hydrogen and to uti
 
 ## License
 
-See the [LICENSE](LICENSE) file for license rights and limitations (GNU AFFERO).
+See the [LICENSE](LICENSE.md) file for license rights and limitations (GNU AFFERO).
 
 
