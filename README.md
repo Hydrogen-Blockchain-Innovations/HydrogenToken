@@ -58,6 +58,6 @@ We also intend to develop and market our capability to store hydrogen and to uti
 ## Wiki
 [Project Wiki](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/tree/master/docs)
 
- ## License
+## License
 
-See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
+See the [LICENSE](LICENSE) file for license rights and limitations (GNU AFFERO).
