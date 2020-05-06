@@ -62,4 +62,4 @@ We also intend to develop and market our capability to store hydrogen and to uti
 
 See the [LICENSE](LICENSE) file for license rights and limitations (GNU AFFERO).
 
-[!https://img.shields.io/twitter/url?style=social]
+
