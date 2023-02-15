@@ -56,7 +56,7 @@ We also intend to develop and market our capability to store hydrogen and to uti
 [Hydrogen Innovations Whitepaper](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/tree/master/documents)
 
 ## Wiki
-[Project Wiki](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/tree/master/docs)
+[Project Wiki](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/blob/master/docs/(v1.6)%20HHO%20White%20Paper%20%5BRevised%5D.pdf)
 
 ## License
 
