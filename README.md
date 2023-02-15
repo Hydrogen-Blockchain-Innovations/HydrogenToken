@@ -53,7 +53,7 @@ HHI is aggressively pursuing other hydrogen off-taker opportunities. Since we ar
 We also intend to develop and market our capability to store hydrogen and to utilize this to make available on-demand electric power via off-the-shelf fuel cell units, producing electricity at well below market prices. Since we do not require the sun or wind to produce power, we are able to fill the void of power deficits by exploiting the opportunities presented by the limitations of those technologies. Integrating HHI’s on-demand power generation capabilities will help level output, making these installations more profitable for both HHI and our customers. The opportunities highlighted above are a fraction of our readily available market, which is why we are so confident about meeting and exceeding our financial projections.
 
 ## White-Paper
-[Hydrogen Innovations Whitepaper]([https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/tree/master/documents](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/blob/master/docs/(v1.6)%20HHO%20White%20Paper%20%5BRevised%5D.pdf))
+[Hydrogen Innovations Whitepaper](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/blob/master/docs/(v1.6)%20HHO%20White%20Paper%20%5BRevised%5D.pdf)
 
 ## Wiki
 [Project Wiki](https://github.com/Hydrogen-Blockchain-Innovations/HydrogenToken/wiki)
